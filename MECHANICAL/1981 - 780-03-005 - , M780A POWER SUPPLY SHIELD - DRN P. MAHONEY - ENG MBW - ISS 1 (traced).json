@@ -1,0 +1,119 @@
+{
+ "drawing": "Modules/UNSORTED/M780/MECHANICAL/1981 - 780-03-005 - , M780A POWER SUPPLY SHIELD - DRN P. MAHONEY - ENG MBW - ISS 1.png",
+ "version": 1,
+ "trace": "_traces/4a3d6a3550727397.svg",
+ "sheet": {
+  "number": "B 780-03-005",
+  "title": "M780, M780A / POWER SUPPLY SHIELD",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [2000, 1414],
+  "mm": [431.8, 305.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 10.3, 431.3, 297.9],
+ "outlines": {
+  "line": {"rings": 117, "straight": {"n": 2769, "mm": 7354.7}, "curved": {"n": 312, "mm": 451.6}},
+  "text": {"rings": 221, "straight": {"n": 1607, "mm": 1937.7}, "curved": {"n": 457, "mm": 703.3}},
+  "tb": {"rings": 20, "straight": {"n": 201, "mm": 320.4}, "curved": {"n": 38, "mm": 57.5}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 1059, "straight": {"n": 1119, "mm": 2832.0}, "curved": {"n": 10, "mm": 10.0}},
+   "text": {"paths": 1608, "straight": {"n": 2105, "mm": 1702.8}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 499, "straight": {"n": 565, "mm": 1064.4}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 40,
+  "orientation": {"horizontal": {"n": 1025, "mm": 2913.9}, "vertical": {"n": 886, "mm": 1223.6}, "diagonal": {"n": 1878, "mm": 1461.6}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [120.1, 11.5], "r": 1.4, "kind": "arc", "span": 126, "from": ["centre line"], "start": 163},
+  {"c": [124.3, 197.1], "r": 1.3, "kind": "arc", "span": 108, "from": ["centre line"], "start": 10},
+  {"c": [78.6, 121.8], "r": 1.3, "kind": "arc", "span": 226, "from": ["centre line"], "start": 58}
+ ],
+ "boxes": [
+  {"mm": [93.9, 141.6, 159.5, 215.5], "w": 65.6, "h": 73.8, "from": "ring"},
+  {"mm": [346.1, 71.2, 411.3, 77.3], "w": 65.2, "h": 6.0, "from": "ring", "words": ["REVISION"], "in_title_block": true},
+  {"mm": [411.7, 71.2, 424.2, 77.3], "w": 12.5, "h": 6.0, "from": "ring", "words": ["APP"], "in_title_block": true},
+  {"mm": [319.3, 71.2, 332.1, 77.1], "w": 12.7, "h": 5.8, "from": "ring", "in_title_block": true},
+  {"mm": [332.7, 71.2, 345.4, 77.1], "w": 12.7, "h": 5.8, "from": "ring", "in_title_block": true},
+  {"mm": [286.5, 52.7, 424.2, 70.5], "w": 137.7, "h": 17.8, "from": "ring", "words": ["WBS", "WARD-BECK", "systEMS"], "in_title_block": true},
+  {
+   "mm": [319.4, 26.4, 424.4, 52.5],
+   "w": 105.0,
+   "h": 26.1,
+   "from": "ring",
+   "words": ["M780 , MZ8OA", "POWER", "SUPPLY", "SHIELD"],
+   "in_title_block": true
+  },
+  {"mm": [286.7, 33.0, 318.9, 39.1], "w": 32.2, "h": 6.0, "from": "ring", "words": ["CKD:"], "in_title_block": true},
+  {"mm": [286.7, 26.3, 319.1, 32.6], "w": 32.4, "h": 6.3, "from": "ring", "words": ["APP"], "in_title_block": true},
+  {"mm": [398.8, 13.4, 424.2, 26.1], "w": 25.5, "h": 12.7, "from": "ring", "words": ["ISSUE"]},
+  {"mm": [286.7, 13.4, 319.1, 25.9], "w": 32.4, "h": 12.5, "from": "ring", "words": ["SCALE 1:1", "5.015", "XX $.005"]},
+  {"mm": [319.5, 13.4, 332.3, 25.9], "w": 12.7, "h": 12.5, "from": "ring"},
+  {"mm": [332.9, 13.4, 398.1, 25.9], "w": 65.2, "h": 12.5, "from": "ring", "words": ["780-03-005"]}
+ ],
+ "text": {
+  "words": 30,
+  "lines": [
+   {"mm": [120.0, 247.9, 138.0, 252.2], "text": "2.500"},
+   {"mm": [102.8, 232.1, 118.5, 236.9], "text": "1.156"},
+   {"mm": [61.7, 203.6, 73.2, 207.9], "text": "700"},
+   {"mm": [182.2, 176.0, 200.6, 181.5], "text": "2.843"},
+   {"mm": [57.4, 167.3, 72.1, 171.6], "text": "2.00"},
+   {"mm": [170.3, 121.1, 235.1, 126.9], "text": "440 DIA: 3 PLACES"},
+   {"mm": [120.0, 119.4, 136.2, 123.7], "text": "1.750"},
+   {"mm": [319.3, 71.9, 345.2, 76.7], "text": "JISSUE |DATE"},
+   {"mm": [369.4, 71.9, 388.8, 76.2], "text": "REVISION"},
+   {"mm": [413.7, 71.9, 422.3, 76.2], "text": "APP"},
+   {"mm": [295.8, 57.0, 419.1, 65.2], "text": "WBS WARD-BECK systEMS"},
+   {"mm": [197.3, 46.4, 317.2, 53.7], "text": "MATE: EISHPAPER 032THK DRN:PMAeve"},
+   {"mm": [344.1, 42.3, 396.0, 50.0], "text": "M780 , MZ8OA"},
+   {"mm": [197.3, 41.2, 242.7, 46.8], "text": "EINISH:NONE"},
+   {"mm": [288.0, 33.5, 297.7, 37.8], "text": "CKD:"},
+   {"mm": [329.0, 34.1, 410.0, 39.6], "text": "POWER SUPPLY SHIELD"},
+   {"mm": [288.0, 27.0, 296.6, 31.3], "text": "APP"},
+   {"mm": [296.0, 21.2, 317.6, 25.5], "text": "SCALE 1:1"},
+   {"mm": [405.0, 21.2, 418.0, 26.0], "text": "ISSUE"},
+   {"mm": [288.0, 14.0, 312.8, 18.4], "text": "XX $.005"},
+   {"mm": [297.1, 17.9, 310.7, 22.2], "text": "5.015"},
+   {"mm": [342.0, 16.6, 387.8, 21.4], "text": "780-03-005"}
+  ],
+  "scale": "1:1"
+ },
+ "title_block": {
+  "mm": [278.8, 15.0, 431.0, 82.8],
+  "from": "title-block words (training set)",
+  "text": [
+   "JISSUE |DATE",
+   "REVISION",
+   "APP",
+   "WBS WARD-BECK systEMS",
+   "M780 , MZ8OA",
+   "CKD:",
+   "POWER SUPPLY SHIELD",
+   "APP",
+   "SCALE 1:1",
+   "ISSUE",
+   "XX $.005",
+   "5.015",
+   "780-03-005"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical B 780-03-005, size B 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px); scale 1:1",
+  "- **Ink extent:** 0–431 mm across, 10–298 mm up",
+  "- **Outlines:** line 117 rings, 2,769 straight (7,355 mm) / 312 curved (452 mm); text 221 rings, 1,607 straight (1,938 mm) / 457 curved (703 mm); tb 20 rings, 201 straight (320 mm) / 38 curved (57.5 mm)",
+  "- **Centre lines:** 3,166 paths (40 closed); straight 5,599 mm, curved 10.0 mm; horizontal 2,914 mm, vertical 1,224 mm, diagonal 1,462 mm",
+  "- **Circles and arcs:** 0 circles, 3 arcs",
+  "- **Closed boxes:** 13 (8 in the title block); named: ISSUE; SCALE 1:1 5.015 XX $.005; 780-03-005",
+  "- **Words (OCR):** 30 in 22 lines: 2.500 · 1.156 · 700 · 2.843 · 2.00 · 440 DIA: 3 PLACES · 1.750 · JISSUE |DATE · REVISION · APP · WBS WARD-BECK systEMS · MATE: EISHPAPER 032THK DRN:PMAeve",
+  "- **Title block:** (279, 15)–(431, 83) mm: JISSUE |DATE · REVISION · APP · WBS WARD-BECK systEMS · M780 , MZ8OA · CKD: · POWER SUPPLY SHIELD · APP · SCALE 1:1 · ISSUE · XX $.005 · 5.015 · 780-03-005"
+ ]
+}
