@@ -33,7 +33,7 @@ Power supply schematic Title block at bottom left reading sideways.
 - **Dots (junctions):** 1
 - **Wiring (first pass):** 142 connected wire groups from 487 runs, 1 dotted junctions
 
-Every curve, box, word and wire group: [19xx - 780-02-001 - M780C POWER SUPPLY SCHEMATIC - ISS 3 (traced).json](../SCHEMATICS/19xx%20-%20780-02-001%20-%20M780C%20POWER%20SUPPLY%20SCHEMATIC%20-%20ISS%203%20(traced).json) (the CAD file: `19xx - 780-02-001 - M780C POWER SUPPLY SCHEMATIC - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 780-02-001 - M780C POWER SUPPLY SCHEMATIC - ISS 3 (traced).json](../SCHEMATICS/19xx%20-%20780-02-001%20-%20M780C%20POWER%20SUPPLY%20SCHEMATIC%20-%20ISS%203%20%28traced%29.json) (the CAD file: `19xx - 780-02-001 - M780C POWER SUPPLY SCHEMATIC - ISS 3 (traced).dxf`).
 
 ## Full text
 
